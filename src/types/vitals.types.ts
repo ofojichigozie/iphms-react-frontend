@@ -23,7 +23,6 @@ export interface CreateVitalsData {
   humidity: number;
   pulseRate: number;
   lightIntensity: number;
-  userId: number;
 }
 
 /**
